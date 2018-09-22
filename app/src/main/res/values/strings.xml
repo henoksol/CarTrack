@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CarTrack</string>
+
+        <!--Activity Title-->
+       <string name="title_activity_car_location_map">Car Track </string>
+
+
+        <!--App Message-->
+        <string name="some_error">Please retry!</string>
+         <string name="store_picture_message">store_picture_message</string>
+        <string name="connection_error">Internet connection lost!</string>
+
+
+
+        <!--empty state-->
+        <string name="common_location_access_denied_title">common_location_access_denied_title</string>
+        <string name="title_activity_car_location_list">Car Location List</string>
+        <string name="retry">Retry</string>
+
+    <!--empty state-->
+    <string name="google_maps_api_key">AIzaSyBlO89ljGoN5nMbJefcPNifVV1wmA92i2E</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
